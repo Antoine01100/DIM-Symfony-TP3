@@ -1,15 +1,17 @@
 **PHP TP3 Symfony DIM - Antoine Bouvard**
 =
 
-##GETTING STARTED  
-**Q1 : Quelles sont les fonctionnalités principales du Symfony CLI ?**  
+**GETTING STARTED**
+-  
+**Q1 : Quelles sont les fonctionnalités principales du Symfony CLI ?**
 - Une façon de créer de nouvelles applications Symfony
 - Un serveur local pour développer des projets
 - Un outil pour vérifier les failles de sécurité
 
 
-##DOCTRINE  
-**Q1 : Quelles relations existent entre les entités (Many To One/Many To Many/...) ? Faire un schéma de la base de données.**  
+**DOCTRINE**
+-
+**Q1 : Quelles relations existent entre les entités (Many To One/Many To Many/...) ? Faire un schéma de la base de données.**
 - ManyToOne  : Chaque Utilisateur sont relié à un Commentaire.
                Chaque Commentaire peut être relié à plusieurs objets Utilisateur
 
